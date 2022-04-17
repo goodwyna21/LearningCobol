@@ -1,0 +1,6 @@
+lineA 1
+lineB 2
+lineC 3
+lineD 4
+lineE 5
+lineF 6
